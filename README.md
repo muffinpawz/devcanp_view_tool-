@@ -1,6 +1,7 @@
-# devcanp_view_tool-
+# DevcanpViewTool
 
-## DevcanpViewTool
+## Specfic methods for various views and different applications.
+
 ### This is the gem....use it wisely
 
 Put this in yo Gemfile:
@@ -21,3 +22,4 @@ or install it urself:
 $ gem install devcanp_view_tool-
 ```
 
+# devcanp_view_tool-
